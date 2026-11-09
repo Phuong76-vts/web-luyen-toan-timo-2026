@@ -1,0 +1,6 @@
+LUYEN DE TIMO - 4 KHOI 6, 7, 8, 9  (BAN NHAP - co/thay duyet truoc khi dung)
+1. Giai nen, mo index.html bang trinh duyet la dung duoc.
+2. Dua len Vercel: day ca thu muc nay (index.html, img, sw.js, manifest.webmanifest, icon.svg, vercel.json) len GitHub roi Deploy nhu cac web-app khac.
+3. Sau khi len Vercel, hoc sinh mo link tren dien thoai -> "Them vao man hinh chinh" la thanh app, xem lai de da mo ngay ca khi mat mang.
+4. De TIMO la tai lieu cua FERMAT Education, duoc dong y cho hoc sinh on luyen: nen bat mat khau bao ve (Vercel Password Protection) hoac chi gui link cho hoc sinh, khong dang cong khai.
+5. Hoc sinh chi nhap ma (HS01...), khong nhap ho ten. Ket qua luu tren trinh duyet tung may; hoc sinh bam "Gui ket qua cho thay co" de lay ma, thay co dan ma vao "Danh cho giao vien" de tong hop ca lop.
